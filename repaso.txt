@@ -1,0 +1,3 @@
+Agredamos un nuevo documento por que se me olvido 
+el comando para crear un repositorio 
+El comando para iniciar un comando es git init
