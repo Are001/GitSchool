@@ -1,0 +1,103 @@
+* [33mcommit 0dcaa5defda35119649c4d35aa2161d0f0fd0395[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: Are <aremorales00@gmail.com>
+[31m|[m Date:   Tue Apr 27 19:50:23 2021 -0500
+[31m|[m 
+[31m|[m     html added all
+[31m|[m   
+*   [33mcommit ddf587847af9e9b2a0bcd31d06444100269f7394[m[33m ([m[1;32mrama2[m[33m, [m[1;32mrama1[m[33m)[m
+[32m|[m[33m\[m  Merge: a92546c 731b4e4
+[32m|[m [33m|[m Author: Are <aremorales00@gmail.com>
+[32m|[m [33m|[m Date:   Tue Apr 27 19:08:12 2021 -0500
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     double navbar fusion
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 731b4e45989193bfdd540a4f9d6fd4f8d153b78e[m[33m ([m[1;32mheader[m[33m)[m
+[32m|[m [33m|[m Author: Are <aremorales00@gmail.com>
+[32m|[m [33m|[m Date:   Tue Apr 27 18:34:06 2021 -0500
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     double navbar
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit b0a40770eb74c91176a2890d3752e55b598efd7a[m
+[32m|[m [33m|[m Author: Are <aremorales00@gmail.com>
+[32m|[m [33m|[m Date:   Tue Apr 27 17:18:41 2021 -0500
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Add 27 de abrilx1 add
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 70d72475e0ee5a5123d0856f18f5e5ccefc4029f[m
+[32m|[m [33m|[m Author: Are <aremorales00@gmail.com>
+[32m|[m [33m|[m Date:   Tue Apr 13 12:11:56 2021 -0500
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Add navbar
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit a92546cd58f73a34abbf1917d636eb0238ed5f05[m
+[33m|[m [33m|[m Author: Are <aremorales00@gmail.com>
+[33m|[m [33m|[m Date:   Tue Apr 27 18:27:36 2021 -0500
+[33m|[m [33m|[m 
+[33m|[m [33m|[m     27 de Abril 2021x02
+[33m|[m [33m|[m 
+* [33m|[m [33mcommit 4597db95d6a804c4779e9eae797fcdf57de8c8cc[m
+[33m|[m [33m|[m Author: Are <aremorales00@gmail.com>
+[33m|[m [33m|[m Date:   Tue Apr 27 17:15:33 2021 -0500
+[33m|[m [33m|[m 
+[33m|[m [33m|[m     Add 27 de abrilx1
+[33m|[m [33m|[m 
+* [33m|[m [33mcommit 23de412c895df56ba889386dcbd745d03f99e1ac[m
+[33m|[m [33m|[m Author: Are <aremorales00@gmail.com>
+[33m|[m [33m|[m Date:   Tue Apr 27 17:06:59 2021 -0500
+[33m|[m [33m|[m 
+[33m|[m [33m|[m     Add 27 de abril
+[33m|[m [33m|[m 
+* [33m|[m [33mcommit 2ef2faec8defd2df120868b84168aa40e57f0902[m
+[34m|[m[33m\[m[33m|[m Merge: 200f9f6 03d2a58
+[34m|[m [33m|[m Author: Are <aremorales00@gmail.com>
+[34m|[m [33m|[m Date:   Tue Apr 13 11:30:35 2021 -0500
+[34m|[m [33m|[m 
+[34m|[m [33m|[m     Merge branch 'header'
+[34m|[m [33m|[m 
+[34m|[m * [33mcommit 03d2a58a22d8385422ad1fef20a1184dff7e227c[m
+[34m|[m [35m|[m Author: Are <aremorales00@gmail.com>
+[34m|[m [35m|[m Date:   Sat Apr 10 21:11:00 2021 -0500
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     recursive strategy
+[34m|[m [35m|[m 
+* [35m|[m [33mcommit 200f9f617e9fa0558b73522f787cbf5ef120c4f4[m[33m ([m[1;32mcontect[m[33m)[m
+[35m|[m[35m/[m  Author: Are <aremorales00@gmail.com>
+[35m|[m   Date:   Fri Apr 9 22:09:52 2021 -0500
+[35m|[m   
+[35m|[m       added welcome to my page
+[35m|[m 
+* [33mcommit 69ce25977f6215593a0ce0e0ad9ca983993ed730[m
+[35m|[m Author: Are <aremorales00@gmail.com>
+[35m|[m Date:   Fri Apr 9 20:44:19 2021 -0500
+[35m|[m 
+[35m|[m     added two files
+[35m|[m 
+* [33mcommit 87d192a235cf450bb95af0586d255b334c1c34b7[m
+[35m|[m Author: Are <aremorales00@gmail.com>
+[35m|[m Date:   Fri Apr 9 20:41:11 2021 -0500
+[35m|[m 
+[35m|[m     added to files Azul school es la onda
+[35m|[m 
+* [33mcommit 6c0e7deedd7c3cc17a399672e23070257516116b[m
+[35m|[m Author: Are <aremorales00@gmail.com>
+[35m|[m Date:   Fri Apr 9 20:33:37 2021 -0500
+[35m|[m 
+[35m|[m     added archivo repaso.txt 09/04/21
+[35m|[m 
+* [33mcommit dfd92c4917dc30b5ab19d3680bcf75ee92fc2bc4[m
+[35m|[m Author: Are <aremorales00@gmail.com>
+[35m|[m Date:   Fri Apr 9 20:33:05 2021 -0500
+[35m|[m 
+[35m|[m     modifed archivo index.html 09/04/21
+[35m|[m 
+* [33mcommit cfb76b312597e078477620b2fb3ef2c4d2f864b8[m
+[35m|[m Author: Are <aremorales00@gmail.com>
+[35m|[m Date:   Wed Apr 7 19:19:55 2021 -0500
+[35m|[m 
+[35m|[m     added information to index.html
+[35m|[m 
+* [33mcommit 2b5f007147b36ab0e36208cf3cf46d214733574b[m
+  Author: Are <aremorales00@gmail.com>
+  Date:   Mon Apr 5 17:06:21 2021 -0500
+  
+      add index.html
