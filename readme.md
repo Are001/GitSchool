@@ -1,5 +1,8 @@
 # Titulo de mi proyecto
 **proyecto Git para alumnos**
+
+Este proyecto es con el fin de que los estudiantes de **azul school** practiquen con Git y GitHub       
+
 [//]:# (Listas enumeradas)
 ### Listas  enumeradas
 1. Index.html
@@ -10,3 +13,5 @@
 * Index.html
 * **Informacion.txt**
 
+> Si estudias hoy no te procuparas por 
+el tema de mañana.
