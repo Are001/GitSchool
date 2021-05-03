@@ -1,2 +1,2 @@
-#titulo de mi proyecto
+# titulo de mi proyecto
 **proyecto Git para alumnos**
